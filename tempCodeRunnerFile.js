@@ -1,2 +1,1 @@
-console.log(2);
-console.log(2);
+callBack(10, 20)
